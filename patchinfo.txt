@@ -1,4 +1,4 @@
-DataTable\Character.edf f0d9f3cedadd086ff875f8b2274c3af1c4de8981
+DataTable\Character.edf a75619f539956a7bd15050ec34d351ae1c0afe2e
 DataTable\en-gb\NDCharacter.edf cb6eaeb0094fc67770f0988eacea63ebc26777cd
 DataTable\en-gb\NDEventShip.edf 747434429c704f13e5628274fec79c680556d116
 DataTable\en-gb\NDItem.edf 6a1e39ffd0c83883bebe0b2265f1686d03ff54dc
